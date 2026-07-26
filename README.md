@@ -109,8 +109,6 @@ and place the 7 CSV files in `data/`.
 python scripts/run_all.py
 ```
 
-Outputs save to `outputs/tables/` (CSV) and `outputs/charts/` (PNG).
-
 ---
 
 ## Folder Structure
@@ -123,9 +121,6 @@ olist-product-analysis/
 │   └── segment_analysis.sql      # Category and payment segmentation
 ├── python/
 │   └── cohort_retention.py       # Cohort table + heatmap + retention curve
-├── outputs/
-│   ├── charts/                   # cohort_retention_heatmap.png, retention_curve.png
-│   └── tables/                   # CSV results for all analyses
 ├── scripts/
 │   └── run_all.py                # Single entry point - runs everything
 ├── FINDINGS.md                   # Analyst memo: findings, recommendation, limitations

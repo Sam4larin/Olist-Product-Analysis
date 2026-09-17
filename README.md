@@ -21,11 +21,11 @@ Using 99,441 orders from Olist's Brazilian e-commerce dataset (2016–2018), I a
 
 ## 1. The customer journey was largely completed successfully
 
-**97% of orders were delivered successfully**, with no Brazilian state falling below 95% delivery completion.
+97% of orders were delivered successfully, with no Brazilian state falling below 95% delivery completion.
 
-Of delivered orders, 91.9% arrived before the estimated delivery date, while **6.8% missed the estimated date entirely**.
+Of delivered orders, 91.9% arrived before the estimated delivery date, while 6.8% missed the estimated date entirely.
 
-The main order drop-off occurred around **payment approval and carrier stages**, accounting for roughly 3% of orders.
+The main order drop-off occurred around payment approval and carrier stages, accounting for roughly 3% of orders.
 
 ### Business insight
 
@@ -35,13 +35,13 @@ Delivery performance was relatively consistent across the market, so the larger 
 
 ## 2. Repeat purchasing was extremely low
 
-Average **month-1 retention was just 0.34%**.
+Average month-1 retention was just 0.34%.
 
-Across customer cohorts, retention remained around **0.20 - 0.27% in later months**, with no meaningful recovery.
+Across customer cohorts, retention remained around 0.20 - 0.27% in later months, with no meaningful recovery.
 
 The pattern was consistent across cohorts from 2017 through mid-2018.
 
-At the same time, **38 of 52 product categories had average review scores above 4.0/5**.
+At the same time, 38 of 52 product categories had average review scores above 4.0/5.
 
 ### Business insight
 
@@ -61,7 +61,7 @@ These are largely durable products, where customers naturally purchase less freq
 
 ## 3. The categories with repeat-purchase potential represented very little of the marketplace
 
-Consumable categories such as food, drinks, and pet products accounted for **less than 2.5% of total orders**.
+Consumable categories such as food, drinks, and pet products accounted for less than 2.5% of total orders.
 
 | Category | Orders |
 | -------- | -----: |
@@ -73,9 +73,9 @@ These categories have a natural purchase cycle that could create more opportunit
 
 There was also evidence of demand for higher-value products.
 
-The **Computers** category averaged **$1,252 per order**, compared with a platform average of approximately $160, while maintaining a **4.24/5 review score**.
+The Computers category averaged $1,252 per order, compared with a platform average of approximately $160, while maintaining a 4.24/5 review score.
 
-However, it generated only **176 orders across two years**.
+However, it generated only 176 orders across two years.
 
 ### Business insight
 
@@ -195,7 +195,7 @@ olist-product-analysis/
 ## Data
 
 Olist Brazilian E-Commerce dataset
-**99,441 orders | September 2016 – October 2018**
+99,441 orders | September 2016 – October 2018
 
 The analysis uses Olist's relational datasets covering customers, orders, products, payments, reviews, and delivery information.
 
